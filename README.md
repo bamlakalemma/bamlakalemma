@@ -2,7 +2,7 @@
 <h3 align="center">I'm an IT undergraduate student passionate about programming and cloud technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/d8/2c/87/d82c87ba8123334b3f76040fd54903fe.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bamlakalemma&label=Profile%20views&color=0e75b6&style=flat" alt="bamlakalemma" /> </p>
+
 
 - 🔭 I’m currently working on **building an ecommerce database**
 
