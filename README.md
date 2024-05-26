@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on **building an ecommerce database**
+- 🔭 I’m currently working on **bUILDING MY PORTFOLIO WEBSITE**
 
-- 🌱 I’m currently learning **LINUX**
+- 🌱 I’m currently learning **LINUX, SQL AND C++**
 
-- 💬 Ask me about **C++, HTML, CSS, JavaScript**
+- 💬 Ask me about **C++, HTML, CSS, JavaScript, SQL, PLSQL**
 
 - 📫 How to reach me **bamlaklem@gmail.com**
 
